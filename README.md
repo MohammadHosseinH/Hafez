@@ -15,10 +15,6 @@ This Java application allows users to fetch and display poems along with their i
 - Java Development Kit (JDK)
 - Internet connectivity to fetch data from the API
 
-#### Screenshots
-![Home Page](screenshots/home-page.png)
-![Fortune Page](screenshots/fortune-page.png)
-
 #### Credits
 This application was utilizing the Jackson library for JSON parsing and Swing for the GUI components.
 
