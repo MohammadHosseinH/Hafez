@@ -8,7 +8,7 @@ This Java application allows users to fetch and display poems along with their i
 
 1. Launch the application by running the ` Main.java` file.
 2. On the home page, click on the "دریافت فال" button to get a new fortune.
-3. The fortune, consisting of a poem and its interpretation, will be displayed.
+3. A random poem from Hafez (got from the API) and its interpretation, will be displayed.
 4. Click on the "بازگشت" button to return to the home page.
 
 #### Requirements
