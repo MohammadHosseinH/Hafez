@@ -16,7 +16,7 @@ This Java application allows users to fetch and display poems along with their i
 - Internet connectivity to fetch data from the API
 
 #### Credits
-This application was utilizing the Jackson library for JSON parsing and Swing for the GUI components.
+This application (Main, Faal class and getFaal method from FaalGUI class) was developing by MohammadHossein Hashemi, utilizing the Jackson library for JSON parsing and Swing for the GUI components.
 
 
 
